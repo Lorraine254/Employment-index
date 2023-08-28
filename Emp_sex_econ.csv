@@ -1,0 +1,991 @@
+indicator.label,sex.label,classif1.label,time,obs_value
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2021,22755.312
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2021,7516.948
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2021,197.441
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2021,1580.315
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2021,88.646
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2021,1712.345
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2021,4641.95
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2021,1398.758
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2021,828.195
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2021,230.745
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2021,764.078
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2021,543.914
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2021,1394.387
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2021,372.054
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2021,1485.536
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2021,5813.853
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2021,3597.66
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2021,123.458
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2021,877.122
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2021,47.341
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2021,1334.242
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2021,1904.001
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2021,1113.114
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2021,301.332
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2021,100.311
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2021,528.204
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2021,325.025
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2021,625.95
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2021,133.587
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2021,490.655
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2021,5565.162
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2021,3919.288
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2021,73.982
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2021,703.193
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2021,41.305
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2021,378.103
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2021,2737.949
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2021,285.644
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2021,526.863
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2021,130.434
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2021,235.874
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2021,218.889
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2021,768.437
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2021,238.467
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2021,994.881
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2020,21925.734
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2020,7375.359
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2020,184.888
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2020,1525.105
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2020,81.009
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2020,1560.931
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2020,4426.53
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2020,1354.049
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2020,784.716
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2020,226.124
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2020,727.367
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2020,544.051
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2020,1359.818
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2020,359.34
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2020,1416.448
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2020,5622.958
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2020,3548.703
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2020,114.225
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2020,840.696
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2020,43.789
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2020,1209.181
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2020,1831.614
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2020,1079.311
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2020,290.855
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2020,99.752
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2020,505.232
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2020,326.135
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2020,611.351
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2020,129.715
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2020,472.932
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2020,5341.713
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2020,3826.656
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2020,70.662
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2020,684.409
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2020,37.22
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2020,351.75
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2020,2594.916
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2020,274.738
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2020,493.861
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2020,126.372
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2020,222.135
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2020,217.917
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2020,748.466
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2020,229.625
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2020,943.517
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2019,21634.052
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2019,7266.356
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2019,186.783
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2019,1482.788
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2019,81.993
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2019,1493.732
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2019,4358.644
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2019,1382.765
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2019,797.877
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2019,220.051
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2019,719.698
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2019,528.718
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2019,1323.685
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2019,350.755
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2019,1440.206
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2019,5559.977
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2019,3453.037
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2019,115.056
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2019,822.747
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2019,44.736
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2019,1146.858
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2019,1827.817
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2019,1102.437
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2019,299.628
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2019,96.284
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2019,501.815
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2019,325.198
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2019,611.33
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2019,131.234
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2019,489.267
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2019,5259.14
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2019,3813.319
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2019,71.726
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2019,660.041
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2019,37.257
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2019,346.874
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2019,2530.827
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2019,280.328
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2019,498.249
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2019,123.767
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2019,217.883
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2019,203.52
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2019,712.355
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2019,219.521
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2019,950.939
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2018,21237.226
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2018,7284.981
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2018,177.524
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2018,1493.727
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2018,78.106
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2018,1368.418
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2018,4294.546
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2018,1336.437
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2018,760.11
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2018,208.536
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2018,683.308
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2018,516.518
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2018,1261.47
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2018,345.449
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2018,1428.097
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2018,5512.326
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2018,3435.144
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2018,110.814
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2018,835.409
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2018,45.466
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2018,1095.604
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2018,1815.356
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2018,1066.934
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2018,295.5
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2018,95.422
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2018,476.971
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2018,322.22
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2018,593.652
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2018,134.033
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2018,497.203
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2018,5110.096
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2018,3849.836
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2018,66.71
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2018,658.318
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2018,32.64
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2018,272.814
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2018,2479.189
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2018,269.503
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2018,464.61
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2018,113.114
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2018,206.337
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2018,194.298
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2018,667.818
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2018,211.416
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2018,930.894
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2017,20828.277
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2017,7326.609
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2017,168.262
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2017,1498.416
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2017,73.933
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2017,1236.247
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2017,4239.317
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2017,1272.567
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2017,720.921
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2017,197.566
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2017,638.338
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2017,504.392
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2017,1198.401
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2017,340.247
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2017,1413.06
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2017,5458.043
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2017,3436.792
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2017,107.531
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2017,843.301
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2017,46.084
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2017,1026.716
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2017,1817.592
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2017,1021.11
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2017,291.034
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2017,95.402
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2017,447.907
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2017,317.627
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2017,571.135
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2017,136.012
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2017,503.915
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2017,4962.003
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2017,3889.817
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2017,60.732
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2017,655.116
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2017,27.849
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2017,209.531
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2017,2421.725
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2017,251.458
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2017,429.887
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2017,102.164
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2017,190.431
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2017,186.764
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2017,627.265
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2017,204.234
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2017,909.145
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2016,20409.737
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2016,7320.619
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2016,159.866
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2016,1504.626
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2016,70.114
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2016,1129.024
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2016,4223.909
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2016,1178.984
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2016,694.241
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2016,189.479
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2016,579.441
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2016,489.951
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2016,1137.786
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2016,334.101
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2016,1397.598
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2016,5396.744
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2016,3411.038
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2016,104.541
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2016,855.906
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2016,46.503
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2016,967.52
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2016,1844.799
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2016,953.961
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2016,292.273
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2016,96.08
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2016,409.069
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2016,312.792
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2016,552.29
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2016,138.504
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2016,509.778
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2016,4816.376
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2016,3909.582
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2016,55.325
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2016,648.72
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2016,23.611
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2016,161.504
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2016,2379.11
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2016,225.023
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2016,401.968
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2016,93.399
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2016,170.372
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2016,177.159
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2016,585.496
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2016,195.597
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2016,887.82
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2015,19774.417
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2015,7235.394
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2015,149.911
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2015,1492.684
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2015,65.784
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2015,1020.521
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2015,4116.741
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2015,1104.198
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2015,655.786
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2015,177.775
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2015,531.012
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2015,470.793
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2015,1066.749
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2015,325.458
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2015,1361.61
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2015,5225.058
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2015,3332.241
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2015,99.591
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2015,853.948
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2015,45.89
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2015,896.687
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2015,1812.69
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2015,896.381
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2015,285.073
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2015,93.899
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2015,375.474
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2015,303.597
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2015,524.771
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2015,139.011
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2015,505.512
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2015,4669.942
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2015,3903.153
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2015,50.321
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2015,638.736
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2015,19.894
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2015,123.834
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2015,2304.05
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2015,207.818
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2015,370.713
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2015,83.876
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2015,155.537
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2015,167.196
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2015,541.978
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2015,186.447
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2015,856.099
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2014,19167.212
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2014,7142.367
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2014,140.173
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2014,1480.489
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2014,62.227
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2014,919.798
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2014,4011.064
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2014,1037.19
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2014,619.552
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2014,167.004
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2014,487.402
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2014,453.49
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2014,998.515
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2014,316.177
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2014,1331.764
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2014,5061.018
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2014,3253.633
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2014,94.262
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2014,853.991
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2014,45.37
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2014,826.629
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2014,1777.2
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2014,844.723
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2014,275.609
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2014,91.92
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2014,345.432
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2014,295.652
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2014,498.793
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2014,139.33
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2014,506.598
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2014,4529.945
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2014,3888.734
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2014,45.911
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2014,626.497
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2014,16.857
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2014,93.169
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2014,2233.864
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2014,192.467
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2014,343.942
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2014,75.084
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2014,141.971
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2014,157.838
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2014,499.722
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2014,176.848
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2014,825.166
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2013,18566.588
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2013,7057.022
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2013,131.193
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2013,1466.608
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2013,58.177
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2013,823.713
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2013,3897.009
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2013,972.198
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2013,583.747
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2013,156.388
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2013,445.828
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2013,436.255
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2013,934.097
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2013,307.431
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2013,1296.923
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2013,4897.952
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2013,3181.55
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2013,89.484
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2013,851.562
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2013,44.142
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2013,753.745
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2013,1741.72
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2013,794.771
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2013,268.134
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2013,89.604
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2013,316.927
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2013,287.414
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2013,473.318
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2013,139.584
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2013,504.202
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2013,4392.229
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2013,3875.472
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2013,41.709
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2013,615.045
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2013,14.035
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2013,69.968
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2013,2155.29
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2013,177.428
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2013,315.613
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2013,66.784
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2013,128.901
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2013,148.841
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2013,460.78
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2013,167.847
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2013,792.72
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2012,17983.411
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2012,6959.466
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2012,123.025
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2012,1452.137
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2012,54.381
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2012,745.238
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2012,3783.739
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2012,910.204
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2012,551.098
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2012,146.554
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2012,406.76
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2012,418.154
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2012,873.419
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2012,298.77
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2012,1260.466
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2012,4739.386
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2012,3105.234
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2012,85.026
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2012,849.056
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2012,42.733
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2012,692.064
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2012,1706.045
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2012,746.245
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2012,261.368
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2012,86.841
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2012,289.461
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2012,278.85
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2012,449.895
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2012,140.087
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2012,499.123
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2012,4258.742
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2012,3854.233
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2012,37.999
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2012,603.081
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2012,11.648
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2012,53.174
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2012,2077.693
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2012,163.959
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2012,289.731
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2012,59.713
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2012,117.299
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2012,139.304
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2012,423.523
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2012,158.683
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2012,761.343
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2011,17414.062
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2011,6867.789
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2011,114.816
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2011,1436.237
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2011,51.248
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2011,671.079
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2011,3663.402
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2011,852.142
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2011,519.328
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2011,137.028
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2011,370.592
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2011,401.022
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2011,815.076
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2011,289.757
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2011,1224.545
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2011,4585.133
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2011,3036.727
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2011,79.754
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2011,845.623
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2011,41.478
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2011,630.962
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2011,1665.888
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2011,701.146
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2011,254.442
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2011,84.092
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2011,264.424
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2011,270.38
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2011,426.159
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2011,139.988
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2011,494.585
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2011,4127.901
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2011,3831.063
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2011,35.062
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2011,590.614
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2011,9.77
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2011,40.117
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2011,1997.513
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2011,150.996
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2011,264.886
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2011,52.936
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2011,106.169
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2011,130.642
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2011,388.917
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2011,149.769
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2011,729.96
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2010,16860.514
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2010,6766.534
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2010,107.194
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2010,1417.593
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2010,47.93
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2010,603.889
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2010,3548.595
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2010,799.123
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2010,486.81
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2010,128.198
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2010,337.734
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2010,384.96
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2010,759.846
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2010,280.316
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2010,1191.793
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2010,4434.238
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2010,2965.702
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2010,75.284
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2010,840.86
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2010,39.887
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2010,573.891
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2010,1625.522
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2010,658.911
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2010,244.987
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2010,81.2
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2010,241.187
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2010,262.617
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2010,403.804
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2010,139.658
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2010,493.08
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2010,4001.571
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2010,3800.832
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2010,31.91
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2010,576.732
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2010,8.043
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2010,29.998
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2010,1923.072
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2010,140.212
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2010,241.823
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2010,46.998
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2010,96.548
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2010,122.343
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2010,356.042
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2010,140.658
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2010,698.714
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2009,16302.007
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2009,6679.494
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2009,99.357
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2009,1396.109
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2009,44.534
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2009,528.516
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2009,3425.021
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2009,749.449
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2009,448.369
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2009,119.014
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2009,307.374
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2009,371.381
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2009,706.456
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2009,271.913
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2009,1155.022
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2009,4281.486
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2009,2903.325
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2009,70.446
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2009,833.231
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2009,37.99
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2009,506.813
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2009,1584.957
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2009,619.479
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2009,232.025
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2009,78.135
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2009,220.177
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2009,255.671
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2009,380.211
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2009,138.994
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2009,492.992
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2009,3874.596
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2009,3776.169
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2009,28.91
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2009,562.877
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2009,6.544
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2009,21.704
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2009,1840.064
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2009,129.97
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2009,216.344
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2009,40.879
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2009,87.198
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2009,115.709
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2009,326.244
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2009,132.918
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2009,662.03
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2008,15752.221
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2008,6547.046
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2008,92.858
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2008,1378.155
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2008,41.737
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2008,476.632
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2008,3305.912
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2008,701.339
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2008,424.56
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2008,111.439
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2008,278.739
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2008,353.631
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2008,658.07
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2008,261.573
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2008,1120.53
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2008,4130.522
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2008,2819.364
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2008,66.285
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2008,830.366
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2008,36.389
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2008,460.268
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2008,1537.275
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2008,580.689
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2008,228.064
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2008,74.969
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2008,199.556
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2008,246.905
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2008,360.923
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2008,138.209
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2008,487.019
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2008,3750.181
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2008,3727.682
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2008,26.573
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2008,547.79
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2008,5.348
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2008,16.364
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2008,1768.637
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2008,120.65
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2008,196.496
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2008,36.47
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2008,79.183
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2008,106.726
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2008,297.147
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2008,123.364
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2008,633.511
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2007,15238.79
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2007,6394.175
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2007,87.36
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2007,1367.233
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2007,39.558
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2007,441.037
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2007,3196.72
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2007,658.044
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2007,408.276
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2007,105.061
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2007,253.072
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2007,334.871
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2007,612.409
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2007,252.422
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2007,1088.553
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2007,3988.029
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2007,2720.234
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2007,62.905
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2007,833.7
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2007,35.082
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2007,428.516
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2007,1494.091
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2007,545.931
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2007,223.684
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2007,72.039
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2007,180.947
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2007,237.585
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2007,343.699
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2007,138.274
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2007,478.999
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2007,3635.445
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2007,3673.942
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2007,24.455
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2007,533.533
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2007,4.477
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2007,12.52
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2007,1702.628
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2007,112.112
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2007,184.591
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2007,33.023
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2007,72.124
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2007,97.286
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2007,268.711
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2007,114.148
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2007,609.554
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2006,14724.88
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2006,6293.242
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2006,80.995
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2006,1344.788
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2006,36.668
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2006,391.426
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2006,3071.532
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2006,617.617
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2006,376.985
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2006,97.509
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2006,229.507
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2006,320.993
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2006,566.973
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2006,243.969
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2006,1052.676
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2006,3845.283
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2006,2655.495
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2006,58.973
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2006,823.852
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2006,33.046
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2006,382.252
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2006,1449.932
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2006,513.587
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2006,210.988
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2006,68.836
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2006,164.545
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2006,229.624
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2006,321.916
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2006,136.665
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2006,475.003
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2006,3520.734
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2006,3637.747
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2006,22.022
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2006,520.936
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2006,3.622
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2006,9.174
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2006,1621.6
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2006,104.03
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2006,165.997
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2006,28.673
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2006,64.962
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2006,91.369
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2006,245.057
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2006,107.304
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2006,577.672
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2005,14212.148
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2005,6183.216
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2005,75.139
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2005,1322.98
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2005,33.793
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2005,348.099
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2005,2942.557
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2005,578.531
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2005,349.994
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2005,90.26
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2005,207.423
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2005,306.488
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2005,526.062
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2005,236.106
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2005,1011.497
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2005,3702.712
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2005,2585.15
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2005,55.211
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2005,813.817
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2005,30.921
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2005,341.232
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2005,1401.328
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2005,482.326
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2005,204.019
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2005,65.472
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2005,149.154
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2005,221.35
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2005,302.338
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2005,135.326
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2005,466.559
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2005,3406.45
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2005,3598.065
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2005,19.928
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2005,509.163
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2005,2.872
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2005,6.867
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2005,1541.229
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2005,96.205
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2005,145.975
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2005,24.789
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2005,58.269
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2005,85.138
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2005,223.724
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2005,100.78
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2005,544.938
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2004,13701.899
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2004,6039.639
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2004,70.032
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2004,1295.622
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2004,31.611
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2004,318.302
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2004,2806.109
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2004,541.317
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2004,323.945
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2004,83.419
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2004,186.98
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2004,295.485
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2004,492.232
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2004,230.42
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2004,986.787
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2004,3560.471
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2004,2516.205
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2004,51.754
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2004,802.62
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2004,29.253
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2004,311.278
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2004,1348.841
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2004,452.64
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2004,193.861
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2004,62.063
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2004,134.923
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2004,212.617
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2004,281.058
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2004,132.443
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2004,455.083
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2004,3293.088
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2004,3523.434
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2004,18.278
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2004,493.002
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2004,2.358
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2004,7.023
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2004,1457.268
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2004,88.676
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2004,130.084
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2004,21.356
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2004,52.056
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2004,82.867
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2004,211.174
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2004,97.977
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2004,531.704
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2003,13192.354
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2003,5881.954
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2003,64.98
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2003,1270.471
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2003,29.316
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2003,285.149
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2003,2675.718
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2003,506.864
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2003,298.992
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2003,77.294
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2003,168.426
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2003,283.864
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2003,460.361
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2003,223.683
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2003,965.284
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2003,3418.54
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2003,2442.068
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2003,48.46
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2003,793.202
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2003,27.404
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2003,278.135
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2003,1299.08
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2003,424.483
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2003,182.944
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2003,58.724
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2003,121.66
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2003,203.747
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2003,261.573
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2003,129.072
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2003,444.996
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2003,3179.797
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2003,3439.886
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2003,16.519
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2003,477.269
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2003,1.912
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2003,7.014
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2003,1376.638
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2003,82.381
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2003,116.048
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2003,18.57
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2003,46.766
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2003,80.117
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2003,198.788
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2003,94.611
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2003,520.288
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2002,12698.382
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2002,5707.289
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2002,60.522
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2002,1251.628
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2002,27.433
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2002,260.435
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2002,2549.765
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2002,476.305
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2002,281.322
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2002,71.816
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2002,152.03
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2002,271.203
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2002,430.672
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2002,219.073
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2002,938.89
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2002,3281.06
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2002,2355
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2002,45.485
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2002,788.382
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2002,25.849
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2002,253.306
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2002,1247.324
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2002,399.913
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2002,175.448
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2002,55.608
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2002,110.067
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2002,194.766
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2002,244.663
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2002,127.35
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2002,431.616
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2002,3069.887
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2002,3352.288
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2002,15.036
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2002,463.247
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2002,1.584
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2002,7.128
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2002,1302.441
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2002,76.391
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2002,105.874
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2002,16.208
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2002,41.963
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2002,76.437
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2002,186.009
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2002,91.723
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2002,507.274
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2001,12214.608
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2001,5518.849
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2001,56.604
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2001,1235.725
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2001,25.792
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2001,241.967
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2001,2429.969
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2001,447.569
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2001,266.815
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2001,67.08
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2001,137.019
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2001,256.937
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2001,402.9
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2001,213.289
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2001,914.094
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2001,3146.531
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2001,2263.626
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2001,42.824
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2001,785.295
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2001,24.464
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2001,234.562
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2001,1196.238
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2001,376.239
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2001,169.258
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2001,52.638
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2001,99.09
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2001,184.918
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2001,229.288
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2001,125.083
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2001,415.963
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2001,2962.164
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2001,3255.222
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2001,13.78
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2001,450.43
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2001,1.327
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2001,7.404
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2001,1233.731
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2001,71.33
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2001,97.557
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2001,14.442
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2001,37.929
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2001,72.019
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2001,173.612
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2001,88.205
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2001,498.13
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Total,2000,11735.257
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2000,5347.363
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2000,52.497
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2000,1217.681
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2000,23.987
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Construction ~ISIC rev.4 F,2000,220.006
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2000,2304.224
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2000,421.169
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2000,248.573
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2000,62.057
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2000,123.481
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2000,244.701
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Education ~ISIC rev.4 P,2000,375.708
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2000,208.532
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Total,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2000,885.277
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Total,2000,3013.981
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2000,2180.199
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2000,39.985
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2000,778.477
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2000,22.887
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Construction ~ISIC rev.4 F,2000,212.485
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2000,1145.597
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2000,354.892
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2000,160.753
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2000,49.586
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2000,89.562
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2000,175.867
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Education ~ISIC rev.4 P,2000,213.015
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2000,122.544
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Male,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2000,401.407
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Total,2000,2854.728
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,2000,3167.164
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,2000,12.513
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,2000,439.204
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,2000,1.1
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Construction ~ISIC rev.4 F,2000,7.522
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,2000,1158.627
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,2000,66.277
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,2000,87.819
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,2000,12.472
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,2000,33.919
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,2000,68.834
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Education ~ISIC rev.4 P,2000,162.694
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,2000,85.988
+"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2022 (thousands)",Sex: Female,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,2000,483.87

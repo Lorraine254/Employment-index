@@ -1,0 +1,193 @@
+indicator.label,sex,sex.label,classif1,classif1.label,classif2.label,time,obs_value
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2019,9805.109
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2019,1610.35
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2019,4998.213
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2019,2670.634
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2019,472.218
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2019,53.693
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2019,9104.751
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2019,1265.173
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2019,4732.433
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2019,2604.006
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2019,458.361
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2019,44.779
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2019,1613.832
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2019,192.978
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2019,912.575
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2019,480.223
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2019,25.81
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2019,2.245
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2019,8191.277
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2019,1417.372
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2019,4085.638
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2019,2190.411
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2019,446.408
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2019,51.449
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2019,8919.432
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2019,2016.583
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2019,5010.86
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2019,1573.703
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2019,288.703
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2019,29.584
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2019,8245.102
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2019,1484.217
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2019,4882.908
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2019,1565.765
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2019,286.982
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2019,25.231
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2019,1400.874
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2019,111.803
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2019,903.321
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2019,352.652
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2019,25.181
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2019,7.916
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2019,7518.559
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2019,1904.779
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2019,4107.539
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2019,1221.051
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2019,263.521
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2019,21.668
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2016,9827.3
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2016,693.376
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2016,4720.949
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2016,3892.144
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2016,461.85
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2016,58.981
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2016,9250.39
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2016,558.237
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2016,4404.239
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2016,3795.994
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2016,449.024
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2016,42.896
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2016,1963.058
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2016,82.072
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2016,1001.928
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2016,815.773
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2016,58.715
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2016,4.57
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2016,7864.242
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2016,611.304
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2016,3719.021
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2016,3076.37
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2016,403.135
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2016,54.411
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2016,9486.161
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2016,1255.834
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2016,4691.934
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2016,3180.631
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2016,293.767
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2016,63.995
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2016,8877.202
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2016,905.831
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2016,4469.095
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2016,3157.027
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2016,292.773
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2016,52.476
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2016,1831.646
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2016,88.594
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2016,878.715
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2016,796.887
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2016,62.565
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2016,4.885
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2016,7654.515
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2016,1167.24
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2016,3813.219
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2016,2383.744
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2016,231.202
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2016,59.11
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2006,6167.792
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2006,1330.803
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2006,3125.179
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2006,1540.95
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2006,107.534
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2006,63.327
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2006,5787.863
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2006,1078.096
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2006,3017.471
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2006,1528.602
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2006,104.098
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2006,59.596
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2006,1367.632
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2006,295.796
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2006,840.102
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2006,212.825
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2006,2.785
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2006,16.124
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2006,4800.161
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2006,1035.006
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2006,2285.077
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2006,1328.126
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2006,104.749
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2006,47.203
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2006,5197.257
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2006,1646.657
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2006,2540.944
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2006,928.71
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2006,37.725
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2006,43.22
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2006,4897.772
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2006,1366.007
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2006,2527.381
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2006,927.796
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2006,36.549
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2006,40.04
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2006,1082.006
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2006,186.125
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2006,704.721
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2006,177.834
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2006,5.057
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2006,8.27
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2006,4115.252
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2006,1460.532
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2006,1836.224
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2006,750.877
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2006,32.669
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2006,34.95
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2005,6167.792
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2005,1330.803
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2005,3125.179
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2005,1540.95
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2005,107.534
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2005,63.327
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2005,5787.863
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2005,1078.096
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2005,3017.471
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2005,1528.602
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2005,104.098
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2005,59.596
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2005,1367.632
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2005,295.796
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2005,840.102
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2005,212.825
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2005,2.785
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2005,16.124
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2005,4800.161
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2005,1035.006
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2005,2285.077
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2005,1328.126
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2005,104.749
+"Employment by sex, age and education (thousands)",SEX_M,Sex: Male,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2005,47.203
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Total,2005,5197.257
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Less than basic,2005,1646.657
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Basic,2005,2540.944
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Intermediate,2005,928.71
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Advanced,2005,37.725
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE15,"Age (Youth, adults): 15+",Education (Aggregate levels): Level not stated,2005,43.22
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Total,2005,4897.772
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Less than basic,2005,1366.007
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Basic,2005,2527.381
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Intermediate,2005,927.796
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Advanced,2005,36.549
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-64,"Age (Youth, adults): 15-64",Education (Aggregate levels): Level not stated,2005,40.04
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Total,2005,1082.006
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Less than basic,2005,186.125
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Basic,2005,704.721
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Intermediate,2005,177.834
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Advanced,2005,5.057
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_Y15-24,"Age (Youth, adults): 15-24",Education (Aggregate levels): Level not stated,2005,8.27
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Total,2005,4115.252
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Less than basic,2005,1460.532
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Basic,2005,1836.224
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Intermediate,2005,750.877
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Advanced,2005,32.669
+"Employment by sex, age and education (thousands)",SEX_F,Sex: Female,AGE_YTHADULT_YGE25,"Age (Youth, adults): 25+",Education (Aggregate levels): Level not stated,2005,34.95
